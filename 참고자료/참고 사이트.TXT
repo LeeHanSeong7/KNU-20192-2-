@@ -1,0 +1,8 @@
+빅스비 교육 사이트
+https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=BIXBY_CAPSULE
+빅스비 개발자 사이트
+https://bixbydevelopers.com/
+java script 가이드 사이트
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+차트 생성 프로그램
+http://auiproject.com/
