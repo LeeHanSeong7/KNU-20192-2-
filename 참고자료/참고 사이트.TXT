@@ -6,3 +6,21 @@ java script 가이드 사이트
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 차트 생성 프로그램
 http://auiproject.com/
+
+StarUML 참고자료
+
+http://staruml.io/
+
+https://docs.staruml.io/
+
+ 
+
+- Use-case Diagram 참고
+
+https://www.uml-diagrams.org/use-case-diagrams-examples.html
+
+ 
+
+- Activity Diagram 참고
+
+https://www.uml-diagrams.org/activity-diagrams-examples.html
