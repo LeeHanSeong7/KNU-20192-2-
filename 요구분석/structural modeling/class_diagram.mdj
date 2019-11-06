@@ -135,7 +135,7 @@
 											"top": 214,
 											"width": 111,
 											"height": 13,
-											"text": "+홈페이지 주소",
+											"text": "-홈페이지 주소",
 											"horizontalAlignment": 0
 										},
 										{
@@ -152,7 +152,7 @@
 											"top": 229,
 											"width": 111,
 											"height": 13,
-											"text": "+홈페이지 ID",
+											"text": "-홈페이지 ID",
 											"horizontalAlignment": 0
 										},
 										{
@@ -169,7 +169,7 @@
 											"top": 244,
 											"width": 111,
 											"height": 13,
-											"text": "+홈페이지 PW",
+											"text": "-홈페이지 PW",
 											"horizontalAlignment": 0
 										}
 									],
@@ -417,7 +417,7 @@
 											"top": 182,
 											"width": 143,
 											"height": 13,
-											"text": "+도서이름",
+											"text": "-도서이름",
 											"horizontalAlignment": 0
 										}
 									],
@@ -612,7 +612,7 @@
 											"top": 294,
 											"width": 143,
 											"height": 13,
-											"text": "+대상 열람실",
+											"text": "-대상 열람실",
 											"horizontalAlignment": 0
 										},
 										{
@@ -629,7 +629,7 @@
 											"top": 309,
 											"width": 143,
 											"height": 13,
-											"text": "+희망 좌석 번호",
+											"text": "-희망 좌석 번호",
 											"horizontalAlignment": 0
 										}
 									],
@@ -843,7 +843,7 @@
 											"top": 510,
 											"width": 80.57080078125,
 											"height": 13,
-											"text": "+Url[]",
+											"text": "-Url[]",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1057,7 +1057,7 @@
 											"top": 510,
 											"width": 115.2607421875,
 											"height": 13,
-											"text": "+result",
+											"text": "-result",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1074,7 +1074,7 @@
 											"top": 525,
 											"width": 115.2607421875,
 											"height": 13,
-											"text": "+app_list[]",
+											"text": "-app_list[]",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1288,7 +1288,7 @@
 											"top": 174,
 											"width": 217.775390625,
 											"height": 13,
-											"text": "+명령_list[]",
+											"text": "-명령_list[]",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1305,7 +1305,7 @@
 											"top": 189,
 											"width": 217.775390625,
 											"height": 13,
-											"text": "+인자_list[]",
+											"text": "-인자_list[]",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1672,7 +1672,7 @@
 											"top": 294,
 											"width": 175,
 											"height": 13,
-											"text": "+이름",
+											"text": "-이름",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1689,7 +1689,7 @@
 											"top": 309,
 											"width": 175,
 											"height": 13,
-											"text": "+학과",
+											"text": "-학과",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1706,7 +1706,7 @@
 											"top": 324,
 											"width": 175,
 											"height": 13,
-											"text": "+학번",
+											"text": "-학번",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1723,7 +1723,7 @@
 											"top": 339,
 											"width": 175,
 											"height": 13,
-											"text": "+학적상태",
+											"text": "-학적상태",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1918,7 +1918,7 @@
 											"top": 214,
 											"width": 167,
 											"height": 13,
-											"text": "+학번",
+											"text": "-학번",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1935,7 +1935,7 @@
 											"top": 229,
 											"width": 167,
 											"height": 13,
-											"text": "+ID",
+											"text": "-ID",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1952,7 +1952,7 @@
 											"top": 244,
 											"width": 167,
 											"height": 13,
-											"text": "+PW",
+											"text": "-PW",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1969,7 +1969,7 @@
 											"top": 259,
 											"width": 167,
 											"height": 13,
-											"text": "+URL",
+											"text": "-URL",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2200,7 +2200,7 @@
 											"top": 166,
 											"width": 175,
 											"height": 13,
-											"text": "+대표홈페이지공지사항",
+											"text": "-대표홈페이지공지사항",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2217,7 +2217,7 @@
 											"top": 181,
 											"width": 175,
 											"height": 13,
-											"text": "+학사공지",
+											"text": "-학사공지",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2234,7 +2234,7 @@
 											"top": 196,
 											"width": 175,
 											"height": 13,
-											"text": "+행사",
+											"text": "-행사",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3301,12 +3301,12 @@
 										"$ref": "AAAAAAFuQJAHUTL12SU="
 									},
 									"font": "Arial;13;0",
-									"left": 318,
-									"top": 182,
+									"left": 295,
+									"top": 183,
 									"width": 70.79541015625,
 									"height": 13,
-									"alpha": -0.2929124414054374,
-									"distance": 65.80273550544841,
+									"alpha": -0.20632391734578226,
+									"distance": 87.86353054595519,
 									"hostEdge": {
 										"$ref": "AAAAAAFuQJAHUjL39iQ="
 									},
@@ -3542,7 +3542,7 @@
 											"top": 510,
 											"width": 143,
 											"height": 13,
-											"text": "+이름",
+											"text": "-이름",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3559,7 +3559,7 @@
 											"top": 525,
 											"width": 143,
 											"height": 13,
-											"text": "+학과",
+											"text": "-학과",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3576,7 +3576,7 @@
 											"top": 540,
 											"width": 143,
 											"height": 13,
-											"text": "+학번",
+											"text": "-학번",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3593,7 +3593,7 @@
 											"top": 555,
 											"width": 143,
 											"height": 13,
-											"text": "+학적",
+											"text": "-학적",
 											"horizontalAlignment": 0
 										}
 									],
@@ -4133,9 +4133,9 @@
 										"$ref": "AAAAAAFuQLSdOmaIlAM="
 									},
 									"font": "Arial;13;0",
-									"left": 1241,
+									"left": 1240,
 									"top": 226,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -4405,9 +4405,9 @@
 										"$ref": "AAAAAAFuQLSiQGc6aF8="
 									},
 									"font": "Arial;13;0",
-									"left": 1241,
+									"left": 1240,
 									"top": 306,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -4615,9 +4615,9 @@
 										"$ref": "AAAAAAFuQLSmDWgACCM="
 									},
 									"font": "Arial;13;0",
-									"left": 1339,
+									"left": 1338,
 									"top": 407,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -4949,9 +4949,9 @@
 										"$ref": "AAAAAAFuQLjbyoWzFWw="
 									},
 									"font": "Arial;13;0",
-									"left": 698,
+									"left": 697,
 									"top": 452,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5221,9 +5221,9 @@
 										"$ref": "AAAAAAFuQLjl2IakWE0="
 									},
 									"font": "Arial;13;0",
-									"left": 843,
+									"left": 842,
 									"top": 452,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5411,7 +5411,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQFlI5iQ4hbo="
 							},
-							"name": "홈페이지 주소"
+							"name": "홈페이지 주소",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5419,7 +5421,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQFlI5iQ4hbo="
 							},
-							"name": "홈페이지 ID"
+							"name": "홈페이지 ID",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5427,7 +5431,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQFlI5iQ4hbo="
 							},
-							"name": "홈페이지 PW"
+							"name": "홈페이지 PW",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5471,7 +5477,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGBjFSV1I9U="
 							},
-							"name": "도서이름"
+							"name": "도서이름",
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5489,7 +5497,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGEV7iWyo9E="
 							},
-							"name": "대상 열람실"
+							"name": "대상 열람실",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5497,7 +5507,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGEV7iWyo9E="
 							},
-							"name": "희망 좌석 번호"
+							"name": "희망 좌석 번호",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5544,7 +5556,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGcfRiZRRr8="
 							},
-							"name": "Url[]"
+							"name": "Url[]",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5583,7 +5597,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGffhSaO/lQ="
 							},
-							"name": "result"
+							"name": "result",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5591,7 +5607,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGffhSaO/lQ="
 							},
-							"name": "app_list[]"
+							"name": "app_list[]",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5779,7 +5797,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGn/XicKecQ="
 							},
-							"name": "명령_list[]"
+							"name": "명령_list[]",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5787,7 +5807,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQGn/XicKecQ="
 							},
-							"name": "인자_list[]"
+							"name": "인자_list[]",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5971,7 +5993,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHFi1ienND0="
 							},
-							"name": "이름"
+							"name": "이름",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5979,7 +6003,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHFi1ienND0="
 							},
-							"name": "학과"
+							"name": "학과",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5987,7 +6013,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHFi1ienND0="
 							},
-							"name": "학번"
+							"name": "학번",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5995,7 +6023,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHFi1ienND0="
 							},
-							"name": "학적상태"
+							"name": "학적상태",
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -6073,7 +6103,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIsmifvM+k="
 							},
-							"name": "학번"
+							"name": "학번",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6081,7 +6113,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIsmifvM+k="
 							},
-							"name": "ID"
+							"name": "ID",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6089,7 +6123,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIsmifvM+k="
 							},
-							"name": "PW"
+							"name": "PW",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6097,7 +6133,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIsmifvM+k="
 							},
-							"name": "URL"
+							"name": "URL",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -6133,7 +6171,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIyMygYiD8="
 							},
-							"name": "대표홈페이지공지사항"
+							"name": "대표홈페이지공지사항",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6141,7 +6181,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIyMygYiD8="
 							},
-							"name": "학사공지"
+							"name": "학사공지",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6149,7 +6191,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQHIyMygYiD8="
 							},
-							"name": "행사"
+							"name": "행사",
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -6177,7 +6221,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQLMJeVuOkEE="
 							},
-							"name": "이름"
+							"name": "이름",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6185,7 +6231,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQLMJeVuOkEE="
 							},
-							"name": "학과"
+							"name": "학과",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6193,7 +6241,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQLMJeVuOkEE="
 							},
-							"name": "학번"
+							"name": "학번",
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6201,7 +6251,9 @@
 							"_parent": {
 								"$ref": "AAAAAAFuQLMJeVuOkEE="
 							},
-							"name": "학적"
+							"name": "학적",
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				}
