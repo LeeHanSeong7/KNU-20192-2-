@@ -1,0 +1,36 @@
+template-macro-def (chooseOneFunction){
+  params{
+    param (resultFunction){
+      type(Title)
+      min (Required) max (Many)
+    }
+  }
+
+  content{
+    if(size(resultFunction)!=1){
+      template ("[#{value(resultFunction[0])}]와 [#{value(resultFunction[1])}]가 있습니다."){
+        speech("아래의 기능이 검색되었습니다.")
+      }
+    }
+    else{
+      template ("[#{value(resultFunction[0])}]가 있습니다."){
+        speech ("아래의 기능이 검색되었습니다.")
+      }
+    }
+  }
+}
+
+template-macro-def (unknownError){
+  content{
+    choose (Random){
+      template ("문제가 발생한 것같아요! 다시 한번 부탁드려요.")
+      template ("지금은 실행하지 못할것 같아요.")
+    }
+  }
+}
+
+template-macro-def (detailProgress){
+  content{
+    template ("선택하신 목록입니다.")
+  }
+}

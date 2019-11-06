@@ -1,0 +1,7 @@
+enum (Command) {
+  symbol (LMS_HOMEPAGE)
+  symbol (ACADEMIC_CALENDAR)
+  symbol (KNUPIA)
+  symbol (LIBRARY_HOMEPAGE)
+  symbol (BOOK_LIST)
+}

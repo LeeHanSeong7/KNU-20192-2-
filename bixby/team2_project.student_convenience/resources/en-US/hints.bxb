@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    hint ("ask KNU Convenient Service to attend a lecture")
+    hint ("with KNU Convenient Service, show me today timetable")
+    hint ("open KNU Convenient Service and show me the next lecture's notice")
+  }
+}

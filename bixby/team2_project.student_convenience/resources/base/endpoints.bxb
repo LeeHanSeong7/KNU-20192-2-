@@ -1,0 +1,18 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (GetCommand) {
+      accepted-inputs (command)
+      local-endpoint (GetCommand.js)
+    }
+
+    action-endpoint (GetDetailInfo) {
+      accepted-inputs (resultFunction)
+      local-endpoint (GetDetailInfo.js)
+    }
+
+    action-endpoint (OpenBrowser) {
+      accepted-inputs (url)
+      local-endpoint (OpenBrowser.js)
+    }
+  }
+}

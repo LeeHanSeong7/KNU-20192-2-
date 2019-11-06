@@ -1,0 +1,3 @@
+structure (DetailResult) {
+  extends (CommandResult)
+}

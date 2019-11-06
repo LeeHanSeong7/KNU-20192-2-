@@ -1,0 +1,35 @@
+layout-macro-def (info_summary){
+  params{
+    param (info){
+      type (DetailResult)
+      min (Required) max (One)
+    }
+  }
+  content{
+    section{
+      content{
+        paragraph{
+          value{
+            template ("#{value(info.title)}")
+          }
+          style(Detail_L)
+        }
+
+        cell-card{
+          slot2{
+            content{
+              primary("앱에서 열기")
+              secondary("#{value(info.url)}")
+            }
+          }
+          on-click{
+            intent{
+              goal:OpenBrowser
+              value:$expr(info.url)
+            }
+          }
+        }
+      }
+    }
+  }
+}

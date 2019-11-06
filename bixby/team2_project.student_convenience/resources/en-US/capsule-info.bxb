@@ -1,0 +1,14 @@
+capsule-info {
+  dispatch-name (KNU Convenient Service)
+  display-name (__DISPLAY_NAME__)
+  developer-name (__COMPANY_NAME__)
+  icon-asset (/images/KNULOGO.png)
+  description ("__DESCRIPTION__")
+  search-keywords{
+    keyword (KNU)
+    keyword (Kyungpook National University)
+    keyword (convenient)
+  }
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+}

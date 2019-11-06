@@ -1,0 +1,29 @@
+action (GetDetailInfo) {
+  description (get detail information about chosen command)
+  type(Search)
+  collect {
+    input (resultFunction) {
+      type (CommandResult)
+      min (Required) max (One)
+
+      default-init{
+        intent{
+          goal:GetCommand
+        }
+      }
+    }
+  }
+  output (DetailResult){
+    throws{
+      unknown-error{
+        on-catch{
+          halt{
+            dialog{
+              template-macro (unknownError)
+            }
+          }
+        }
+      }
+    }
+  }
+}

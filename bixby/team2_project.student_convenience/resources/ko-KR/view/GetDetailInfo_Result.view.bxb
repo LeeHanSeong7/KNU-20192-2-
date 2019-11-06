@@ -1,0 +1,11 @@
+result-view{
+  match:DetailResult(this)
+
+  render{
+    layout-macro (info_summary){
+      param (info){
+        expression (this)
+      }
+    }
+  }
+}

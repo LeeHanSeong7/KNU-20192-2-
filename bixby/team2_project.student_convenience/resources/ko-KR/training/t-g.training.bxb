@@ -1,0 +1,5 @@
+train (t-g1tr9yh7pbmewds4ncauh5or6) {
+  utterance ("[g:GetDetailInfo] (학사일정)[v:Command:ACADEMIC_CALENDAR] 보여줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1572984759369)
+}

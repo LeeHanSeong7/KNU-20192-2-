@@ -1,0 +1,23 @@
+input-view{
+  match:CommandResult(this)
+
+  message{
+    template-macro (chooseOneFunction){
+      param (resultFunction){
+        expression (url)
+      }
+    }
+  }
+
+  render{
+    selection-of (this){
+      where-each (one){
+        layout-macro (commandresult){
+          param (res){
+            expression (one)
+          }
+        }
+      }
+    }
+  }
+}

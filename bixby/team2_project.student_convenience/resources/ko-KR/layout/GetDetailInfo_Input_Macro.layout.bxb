@@ -1,0 +1,17 @@
+layout-macro-def (commandresult){
+  params{
+    param (res){
+      type (CommandResult)
+      min (Required) max (One)
+    }
+  }
+  content{
+    cell-card{
+      slot2{
+        content{
+          primary("#{value(res.url)}")
+        }
+      }
+    }
+  }
+}

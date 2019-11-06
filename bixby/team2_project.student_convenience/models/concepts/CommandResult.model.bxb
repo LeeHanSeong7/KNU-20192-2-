@@ -1,0 +1,10 @@
+structure (CommandResult) {
+  property (title) {
+    type (Title)
+    min (Required) max (One)
+  }
+  property (url) {
+    type (URL)
+    min (Required) max (One)
+  }
+}
