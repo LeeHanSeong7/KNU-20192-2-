@@ -19,12 +19,40 @@
 
         <activity android:name=".LMS_EXE">
             <intent-filter>
-                <data android:scheme="http://www.naver.com" />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="launch_lms" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".LibraryHomePage">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="launch_library" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".AcademicCalendar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="launch_acalendar" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".KNUPIA">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="launch_knupia" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>

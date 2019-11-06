@@ -10,10 +10,4 @@
         android:text="For LMS execution"
         android:textSize="30sp" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="_fin"
-        android:text="Button" />
 </LinearLayout>
