@@ -14,8 +14,4 @@ capsule {
     modern-default-view-behavior
     use-input-views-for-selection-list-detail
   }
-  capsule-imports{
-    import (viv.entity){version (3.21.4) as (entity)}
-    import (viv.time){as (time) version-from (entity)}
-  }
 }

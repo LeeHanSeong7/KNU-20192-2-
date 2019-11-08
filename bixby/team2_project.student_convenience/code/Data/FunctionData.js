@@ -2,25 +2,25 @@ module.exports={
   LMS_HOMEPAGE:[
     {
       title: "경북대학교 학습관리시스템",
-      url: "launch_lms://"
+      url: "http://lms.knu.ac.kr"
     }
   ],
   ACADEMIC_CALENDAR:[
     {
       title: "학사일정",
-      url: "launch_acalendar://"
+      url: "https://www.knu.ac.kr/wbbs/wbbs/user/yearSchedule/index.action?menu_idx=43"
     }
   ],
   KNUPIA:[
     {
       title: "KNUPIA",
-      url: "https://www.knu.ac.kr"
+      url: "https://knu.ac.kr"
     }
   ],
   LIBRARY_HOMEPAGE:[
     {
       title: "경북대학교 도서관",
-      url: "launch_library://"
+      url: "http://kudos.knu.ac.kr"
     }
   ],
   BOOK_LIST:[
