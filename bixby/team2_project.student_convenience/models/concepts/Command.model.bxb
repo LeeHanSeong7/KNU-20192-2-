@@ -4,4 +4,7 @@ enum (Command) {
   symbol (KNUPIA)
   symbol (LIBRARY_HOMEPAGE)
   symbol (BOOK_LIST)
+  symbol (KNU_HOMEPAGE)
+  symbol (KNU_WEBMAIL)
+  symbol (KNU_YES)
 }

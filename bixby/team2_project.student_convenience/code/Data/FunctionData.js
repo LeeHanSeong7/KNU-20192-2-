@@ -28,5 +28,23 @@ module.exports={
       title: "소장 도서 검색",
       url: "https://pyxis.knu.ac.kr/#/search/ex"//좀 깨짐
     }
+  ],
+  KNU_HOMEPAGE:[
+    {
+      title: "경북대학교 홈페이지",
+      url: "http://www.knu.ac.kr/"
+    }
+  ],
+  KNU_WEBMAIL:[
+    {
+      title: "경북대학교 웹메일",
+      url: "http://mail.knu.ac.kr/"
+    }
+  ],
+  KNU_YES:[
+    {
+      title: "경북대학교 통합정보시스템",
+      url: "https://yes.knu.ac.kr/comm/"
+    }
   ]
 }

@@ -1,3 +1,8 @@
+train (t-jik6ko1ocijj5r65la7uygyr8) {
+  utterance ("[g:GetDetailInfo] (웹 메일)[v:Command:KNU_WEBMAIL] 열어줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1573902360611)
+}
 train (t-jolzukrlky81hv44cbhad7otd) {
   utterance ("[g:GetDetailInfo] 경북대학교 (도서관)[v:Command:LIBRARY_HOMEPAGE] 홈페이지 열어줘")
   plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)

@@ -1,0 +1,5 @@
+train (t-blvry7ify7yxfraroozmzvbad) {
+  utterance ("[g:team2_project.student_convenience.GetDetailInfo] (YES)[v:team2_project.student_convenience.Command:KNU_YES] 열어줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1573902260860)
+}
