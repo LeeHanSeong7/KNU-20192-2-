@@ -7,4 +7,5 @@ enum (Command) {
   symbol (KNU_HOMEPAGE)
   symbol (KNU_WEBMAIL)
   symbol (KNU_YES)
+  symbol (RANDOM)
 }

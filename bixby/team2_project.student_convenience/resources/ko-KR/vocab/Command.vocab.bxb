@@ -42,4 +42,8 @@ vocab (Command){
     "YES"
     "예스"
   }
+  "RANDOM"{
+    "심심해"
+    "여가기능"
+  }
 }

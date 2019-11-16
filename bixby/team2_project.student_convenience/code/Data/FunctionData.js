@@ -46,5 +46,11 @@ module.exports={
       title: "경북대학교 통합정보시스템",
       url: "https://yes.knu.ac.kr/comm/"
     }
+  ],
+  RANDOM:[
+    {
+      title: "랜덤",
+      url: ""
+    }
   ]
 }
