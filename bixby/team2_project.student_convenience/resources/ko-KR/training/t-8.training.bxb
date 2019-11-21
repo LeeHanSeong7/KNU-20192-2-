@@ -1,5 +1,5 @@
 train (t-84noxpwhf1o7acnpxos6vf26o) {
-  utterance ("[g:GetDetailInfo] (통합 정보 시스템)[v:Command:KNU_YES] 열어줘")
-  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
-  last-modified (1573901999905)
+  utterance ("[g:LoginEX] (통합 정보 시스템)[v:Command:KNU_YES] 열어줘")
+  plan (Y2BlUC1JTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtULDfJh0CSszCc/PTPPNYJBn7BS5/zc3MS8lKDU4tKcEgYdwhrcU0ugeohxCUwpCwMjAxMDM5BmgLIYwSwQYALSQHEA)
+  last-modified (1574335244772)
 }

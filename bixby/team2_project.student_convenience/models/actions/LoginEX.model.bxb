@@ -1,0 +1,17 @@
+action (LoginEX) {
+  description (login)
+  type(Search)
+  collect {
+    input (resultFunction) {
+      type (CommandResult)
+      min (Required) max (One)
+
+      default-init{
+        intent{
+          goal:GetCommand
+        }
+      }
+    }
+  }
+  output (URL)
+}

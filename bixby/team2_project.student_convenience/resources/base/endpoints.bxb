@@ -14,5 +14,10 @@ endpoints {
       accepted-inputs (url)
       local-endpoint (OpenBrowser.js)
     }
+
+    action-endpoint (LoginEX){
+      accepted-inputs (resultFunction)
+      local-endpoint (LoginEx.js)
+    }
   }
 }
