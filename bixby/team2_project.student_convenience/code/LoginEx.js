@@ -2,20 +2,19 @@ module.exports.function = function loginEx (resultFunction) {
   const console=require('console');
 
   console.log(resultFunction);
-  var base64 = require('base64');
   var http = require('http');
-  var id  = base64.encode("qhcks1030");
-  var pass = base64.encode("Qhhcks0525104!");
+  
+  //아이디 비번
+  var data = {
+    usr_id : "",
+    usr_pwd : "",
+    returnURL : ""
+  }
   var options = {
-    format : "json",
-    headers:{
-      "Authorization": "Basic " + base64.encode("qhcks1030" + ":" + "Qhcks0525104!"),
-      "X-Requested-With": "XMLHttpRequest"
-    },
     returnHeaders:true
   };
   
-  var response = http.getUrl(resultFunction.url, options);
+  var response = http.postUrl(resultFunction.url + "/ilos/lo/login.acl", data, options); //현제 lms 만 됨
 
   console.log(response);
 
