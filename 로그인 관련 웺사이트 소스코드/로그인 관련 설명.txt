@@ -1,2 +1,0 @@
-lms: loginForm.acl 에서 loginForm 함수
-도서관: 아직 못 찾음
