@@ -1,0 +1,10 @@
+train (t-208o2a8879jl03r1tmfyzq8xr) {
+  utterance ("[g:GetDetailInfo] 경북대학교 (도서관)[v:Command:LIBRARY_HOMEPAGE] 열어줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1572980822159)
+}
+train (t-2t7ezje3712iaauhrk2gg05or) {
+  utterance ("[g:GetDetailInfo] (LMS)[v:Command:LMS_HOMEPAGE] 열어줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1575474170485)
+}

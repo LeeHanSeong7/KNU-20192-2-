@@ -3,8 +3,6 @@ enum (Command) {
   symbol (ACADEMIC_CALENDAR)
   symbol (KNUPIA)
   symbol (LIBRARY_HOMEPAGE)
-  symbol (LIBRARY_BOOK_LIST)
-  symbol (LIBRARY_SEAT_LIST)
   symbol (BOOK_LIST)
   symbol (KNU_HOMEPAGE)
   symbol (KNU_WEBMAIL)

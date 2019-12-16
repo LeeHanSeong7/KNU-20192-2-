@@ -1,0 +1,5 @@
+train (t-o3d5r541bfn68pp12yqzu0tyv) {
+  utterance ("[g:GetDetailInfo] (웹메일)[v:Command:KNU_WEBMAIL] 열어줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1573902331128)
+}

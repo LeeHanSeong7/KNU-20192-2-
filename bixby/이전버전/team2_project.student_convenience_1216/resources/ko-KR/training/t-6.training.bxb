@@ -1,0 +1,5 @@
+train (t-6fkcekfknouevz8zn3ruww1w9) {
+  utterance ("[g:GetDetailInfo] (학습 관리 시스템)[v:Command:LMS_HOMEPAGE] 열어줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1572980374095)
+}

@@ -1,0 +1,11 @@
+action (GetCommand) {
+  description (get user's command)
+  type(Search)
+  collect {
+    input (command) {
+      type (Command)
+      min (Optional) max (Many)
+    }
+  }
+  output (CommandResult)
+}

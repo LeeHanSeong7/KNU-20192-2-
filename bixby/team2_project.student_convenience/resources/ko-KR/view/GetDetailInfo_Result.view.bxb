@@ -2,6 +2,11 @@ result-view{
   match:DetailResult(this)
 
   app-launch{
-    payload-uri("#{value(this.url)}")
+    payload-uri("#{value(this.app_url)}")
+
+    requires{
+      app-id("#{value(this.app_id)}")
+      app-store-url("#{value(this.url)}")
+    }
   }
 }

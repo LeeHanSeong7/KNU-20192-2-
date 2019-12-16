@@ -1,0 +1,5 @@
+train (t-p58d3o9psk2naa52u2us58rer) {
+  utterance ("[g:GetDetailInfo] (여가기능)[v:Command:RANDOM]")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1573930143596)
+}

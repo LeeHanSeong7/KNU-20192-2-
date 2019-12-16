@@ -7,12 +7,4 @@ structure (CommandResult) {
     type (URL)
     min (Required) max (One)
   }
-  property (app_id) {
-    type (App_id)
-    min (Required) max (One)
-  }
-  property (app_url) {
-    type (App_url)
-    min (Optional) max (One)
-  }
 }

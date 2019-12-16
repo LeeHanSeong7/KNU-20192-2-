@@ -1,0 +1,7 @@
+result-view{
+  match:DetailResult(this)
+
+  app-launch{
+    payload-uri("#{value(this.url)}")
+  }
+}

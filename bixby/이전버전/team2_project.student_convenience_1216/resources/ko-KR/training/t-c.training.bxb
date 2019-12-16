@@ -1,0 +1,5 @@
+train (t-cgviolzeie8dwqx5q80ei3p4v) {
+  utterance ("[g:GetDetailInfo] (모바일 학생증)[v:Command:KNUPIA] 보여줘")
+  plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
+  last-modified (1570152206538)
+}

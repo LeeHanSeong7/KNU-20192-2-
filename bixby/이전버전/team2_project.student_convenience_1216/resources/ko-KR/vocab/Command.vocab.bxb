@@ -18,7 +18,7 @@ vocab (Command){
     "도서관"
     "도서관 예약"
   }
-  "LIBRARY_BOOK_LIST"{
+  "BOOK_LIST"{
     "도서목록"
     "도서 목록"
     "도서검색"
@@ -27,11 +27,6 @@ vocab (Command){
     "책 목록"
     "책검색"
     "책 검색"
-  }
-  "LIBRARY_SEAT_LIST"{
-    "도서관 좌석"
-    "도서관 자리"
-    "도서관 예약"
   }
   "KNU_WEBMAIL"{
     "웹메일"

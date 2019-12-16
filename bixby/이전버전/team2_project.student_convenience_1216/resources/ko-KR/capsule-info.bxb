@@ -1,0 +1,14 @@
+capsule-info {
+  dispatch-name (경북대학교 편의 서비스)
+  display-name (경북대학교 편의 서비스)
+  developer-name (__COMPANY_NAME__)
+  icon-asset (/images/KNULOGO.png)
+  description ("경북대학교 학생 편의 서비스")
+  search-keywords{
+    keyword (경북대)
+    keyword (경북대학교)
+    keyword (편의)
+  }
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+}
