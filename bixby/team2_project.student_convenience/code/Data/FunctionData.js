@@ -3,8 +3,8 @@ module.exports={
     {
       title: "경북대학교 학습관리시스템",
       url: "http://lms.knu.ac.kr",
-      app_id: "",
-      app_url: ""
+      app_id: "lms",
+      app_url: "hellolms://"
     }
   ],
   ACADEMIC_CALENDAR:[

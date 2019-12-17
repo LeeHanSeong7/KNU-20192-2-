@@ -3,6 +3,11 @@ train (t-208o2a8879jl03r1tmfyzq8xr) {
   plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
   last-modified (1572980822159)
 }
+train (t-2l53lap6or6wzh9upugsrp5n4) {
+  utterance ("[g:LoginEX] (학습 관리 시스템)[v:Command:LMS_HOMEPAGE] 로그인")
+  plan (Y2BlUC1JTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtULDfJh0CSszCc/PTPPNYJBn7BS5/zc3MS8lKDU4tKcEgYdwhrcU0ugeohxCUwpCwMjAxMDM5BmgLIYwSwQYALSQHEA)
+  last-modified (1576579999859)
+}
 train (t-2t7ezje3712iaauhrk2gg05or) {
   utterance ("[g:GetDetailInfo] (LMS)[v:Command:LMS_HOMEPAGE] 열어줘")
   plan (Y2Bl0CtJTcw1ii8oys9KTS7RKy4pTUnNK4lPzs8rS83LTM1LTtVzSS1JzMwJSi0uzSlh0Ces3j21BKLFMy8tnxgNzvm5uYl5KVAbdIiyAaqHQZNo4xlYGBgZmBiYgTQDlMUIZoEAE5AGigMA)
